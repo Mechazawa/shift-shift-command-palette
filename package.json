@@ -1,6 +1,6 @@
 {
   "name": "shift-shift-command-palette",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Press shift twice to open the command palette. Just like in Intelij",
   "main": "./lib/main",
   "scripts": {
