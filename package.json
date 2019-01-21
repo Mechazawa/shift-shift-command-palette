@@ -1,0 +1,25 @@
+{
+  "name": "shift-shift-command-palette",
+  "version": "1.0.0",
+  "description": "Press shift twice to open the command palette",
+  "main": "./lib/main",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mechazawa/shift-shift-command-palette.git"
+  },
+  "keywords": [
+    "atom"
+  ],
+  "author": "Mechazawa",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/Mechazawa/shift-shift-command-palette/issues"
+  },
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "homepage": "https://github.com/Mechazawa/shift-shift-command-palette#readme"
+}
